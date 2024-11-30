@@ -1,16 +1,9 @@
-# Hi there, I'm Marvelis08! 👋
+# Hi there, I'm Edward Deegan (Marvelis08)! 👋
 
 ## About Me
 
 I'm interested in computer science, artificial intelligence, and image manipulation. I also love maps, flags and history.
-
-## Projects
-
-None so far...
-
-## Stats
-
-![Marvelis08's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marvelis08&show_icons=true&theme=radical)
+I like music from decades before I was born. My favorite bands are probably Kino, The Smiths, Echo and the Bunnymen, and Siouxsie and the Banshees.
 
 
 <!---
