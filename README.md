@@ -1,5 +1,3 @@
-![Header](./github-header-image.png)
-
 ## About Me
 
 I was born on August 29th 2008 and am from the United Kingdom.
